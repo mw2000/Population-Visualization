@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569888087484.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2055908524",
+    "id" : "7023F80",
+    "lastKnownWriteTime" : 1569888018,
+    "last_content_update" : 1569888018,
+    "path" : "~/Desktop/Projects/PopulationVisualization/Freedom vs Happiness/Freedom vs Happiness.R",
+    "project_path" : "Freedom vs Happiness/Freedom vs Happiness.R",
+    "properties" : {
+        "cursorPosition" : "18,0",
+        "scrollLine" : "14"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
